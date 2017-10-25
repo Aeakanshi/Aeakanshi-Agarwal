@@ -35,7 +35,7 @@
     "versionFirst": "4.3.2",
     "uniqCompNum": 19,
     "versionPublish": "4.3.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-10-22-at-11.59.24-pm-128x85.png",
     "noImageResize": ""
   },
   "pages": {
