@@ -1409,7 +1409,7 @@ body {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #ff3366;
+  background-color: #cccccc;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -1494,6 +1494,14 @@ body {
 }
 .cid-qxRDfkNcW9 .mbr-gallery-item > div > span {
   text-align: center;
+}
+.cid-qxUT7hNGOD {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #2e2e2e;
+}
+.cid-qxUT7hNGOD .media-container-row .mbr-text {
+  text-align: right;
 }
 .cid-qxUT7hNGOD {
   padding-top: 15px;
